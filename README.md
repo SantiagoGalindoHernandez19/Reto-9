@@ -27,9 +27,14 @@ Escriba un programa que pida 5 números reales y calcule las siguientes usando u
 
 ![Punto 2 1, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/21e4b7a4-d060-4a07-89b5-ccd459ab0914)
 
--
+Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 
+![Punto 2 2, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/f3608ad9-d55a-412f-be3c-0e5e93a49a9e)
+
+Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
 ---
+
+
 
 3) Escriba una función recursiva para calcular la operación de la potencia.
 
