@@ -49,6 +49,9 @@ Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cad
 
 4) Utilice la siguiente plantilla de código para contar el tiempo:
 
+![Punto 4, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/0a85e7f2-436f-4604-a243-64ffbb77e938)
+
+
 ---
 
 5) Crear cuenta en stackoverflow y adjuntar imagen en el repositorio
