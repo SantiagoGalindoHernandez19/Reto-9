@@ -41,6 +41,9 @@ Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cad
 
 3) Escriba una función recursiva para calcular la operación de la potencia.
 
+![Uploading Punto 3, reto 9.JPG…]()
+
+
 --- 
 
 4) Utilice la siguiente plantilla de código para contar el tiempo:
