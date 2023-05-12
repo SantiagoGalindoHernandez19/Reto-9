@@ -41,7 +41,8 @@ Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cad
 
 3) Escriba una función recursiva para calcular la operación de la potencia.
 
-![Uploading Punto 3, reto 9.JPG…]()
+![Punto 3, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/36eab5a3-11a1-43ea-97ca-2ab402f8c364)
+
 
 
 --- 
