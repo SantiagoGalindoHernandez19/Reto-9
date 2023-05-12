@@ -31,7 +31,10 @@ Diseñe una función que calcule la cantidad de carne de aves en kilos si se tie
 
 ![Punto 2 2, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/f3608ad9-d55a-412f-be3c-0e5e93a49a9e)
 
-Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
+Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos
+
+![Punto 2 3, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/de1b995b-0db1-4d89-8e06-968786ed33a0)
+
 ---
 
 
