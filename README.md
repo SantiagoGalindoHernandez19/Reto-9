@@ -21,6 +21,13 @@ El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada
 
 2) De los retos anteriores selecciones 3 funciones y escribalas con argumentos no definidos (*args).
 
+Escriba un programa que pida 5 números reales y calcule las siguientes usando una función para cada una:
+
+-El promedio
+
+![Punto 2 1, reto 9](https://github.com/SantiagoGalindoHernandez19/Reto-9/assets/124641609/21e4b7a4-d060-4a07-89b5-ccd459ab0914)
+
+-
 
 ---
 
