@@ -2,6 +2,8 @@
 Reto 9
 
 1) De los desafíos anteriores selecciones 3 funciones y escribalas en forma de lambdas.
+
+
 Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
 
 ---
